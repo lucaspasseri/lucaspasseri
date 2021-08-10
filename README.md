@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - #### 🔭 &nbsp; I’m currently working on become a professional Full Stack Web developer.
 - #### 🌱 &nbsp; I’m currently learning TypeScript and TypeORM.
 - #### 👯 &nbsp; I’m looking to collaborate on good ideias.
-- #### 💬 &nbsp; Ask me about life.
+- #### 💬 &nbsp; Ask me about life and the universe.
 - #### 😄 &nbsp; Pronouns: He/His
 - #### ⚡ &nbsp; Fun fact: I like to dance and to do outdoor exercises.
 
