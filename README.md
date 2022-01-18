@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 ## About me:
 
 - #### 🔭 &nbsp; I’m currently working on become a professional Full Stack Web developer.
-- #### 🌱 &nbsp; I’m currently learning TypeScript and TypeORM.
+- #### 🌱 &nbsp; I’m currently learning about Containers and CI/CD.
 - #### 👯 &nbsp; I’m looking to collaborate on good ideias.
 - #### 💬 &nbsp; Ask me about life and the universe.
 - #### 😄 &nbsp; Pronouns: He/His
