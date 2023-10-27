@@ -8,12 +8,7 @@ Here are some ideas to get you started:
 
 ## About me:
 
-- #### 🔭 &nbsp; I’m currently working on become a professional Full Stack Web developer.
-- #### 🌱 &nbsp; I’m currently learning about Containers and CI/CD.
-- #### 👯 &nbsp; I’m looking to collaborate on good ideias.
-- #### 💬 &nbsp; Ask me about life and the universe.
-- #### 😄 &nbsp; Pronouns: He/His
-- #### ⚡ &nbsp; Fun fact: I like to dance and to do outdoor exercises.
+Desenvolvedor Full Stack com 2 anos de experiência especializado em tecnologias front-end, incluindo React.js, Next.js e React Native para aplicações web, PWAs, e mobile multiplataformas. Com formação em Node para backend e experiencia com aplicações usando bancos relacionais (Postgres) e não-relacionais (MongoDB). Comprometido com a entrega de soluções eficazes e escaláveis, e motivado para integrar times onde possa contribuir para o crescimento mútuo.
 
 ## Languages and tools:
 
